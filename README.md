@@ -5,9 +5,9 @@ List of logos currently added/planned and credits can be found [here](https://do
 
 ## Installing the mod
 
-1. Download and install, [Steammodded 1.0.0 beta (1224a)](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a) [Lovely v0.7.1](https://github.com/ethangreen-dev/lovely-injector)
-2. Download the  GameLogoMod_v0.1.1.zip  file from [Releases](https://github.com/CountKiro/PMBalatroMod/releases/tag/v1.3) on the right menu, extract it and then place it in your Mods folder. You'll know it's correct if you open the GameLogoMod folder and there's an assets folder and a .lua and .json file inside
-3. [OPTIONAL] Go to Mods -> Game Logo Mod -> Options -> tweak if you want a fixed logo or randomized
+1. Download and install, [Steammodded 1.0.0 beta 1224a](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a) and [Lovely v0.7.1](https://github.com/ethangreen-dev/lovely-injector)
+2. Download the  GameLogoMod_v0.1.1.zip  file from [Releases](https://github.com/CountKiro/BalatroAltGamesLogoMod/releases/tag/v0.1) on the right menu, extract it and then place it in your Mods folder. You'll know it's correct if you open the GameLogoMod folder and there's an assets folder and a .lua and .json file inside
+3. [OPTIONAL] Go to Mods -> Game Logo Mod -> Options -> change the settings if you want a fixed logo or randomized
 
 
 ## Credits
