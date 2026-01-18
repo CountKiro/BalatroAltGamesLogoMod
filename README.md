@@ -6,14 +6,45 @@ List of logos currently added/planned and credits can be found [here](https://do
 ## Installing the mod
 
 1. Download and install, [Steammodded 1.0.0 beta 1224a](https://github.com/Steamodded/smods/releases/tag/1.0.0-beta-1224a) and [Lovely v0.7.1](https://github.com/ethangreen-dev/lovely-injector)
-2. Download the  GameLogoMod_v0.2.0.zip  file from [Releases](https://github.com/CountKiro/BalatroAltGamesLogoMod/releases/tag/v0.2) on the right menu, extract it and then place it in your Mods folder. You'll know it's correct if you open the GameLogoMod folder and there's an assets folder and a .lua and .json file inside
-3. [OPTIONAL] Go to Mods -> Game Logo Mod -> Options -> change the settings if you want a fixed logo or randomized
+2. Download the  GameLogoMod_v0.3.0.zip  file from [Releases](https://github.com/CountKiro/BalatroAltGamesLogoMod/releases/tag/v0.3) on the right menu, extract it and then place it in your Mods folder. You'll know it's correct if you open the GameLogoMod folder and there's an assets folder and a .lua and .json file inside
+3. [OPTIONAL] Download the Music Addon and install it just like Step 3
+4. [OPTIONAL] Go to Mods -> Game Logo Mod -> Options -> change the settings if you want a fixed logo or randomized
 
 
-## Credits
+## Art Credits
 
-Arts for the Sonic the Hedgehog, Super Mario Bros 2 and Gradius made by UltraEpicLeader100.
+### UltraEpicLeader100
+- Sonic the Hedgehog
+- Super mario Bros 2
+- Gradius
+- Earthbound
+- Mother
+- There is No Game
+- Big Bird's Egg Catch
 
+### MightyKingVideo
+- Baba is You
+- New Super Mario
+- Among Us
+- Rhythm Heaven
+- Team Fortress 2
+- Pokémon
+- Doki Doki Literature Club
+- Plants vs Zombies
+- Cult of the Lamb
+- Cuphead
+- Metaphor ReFantazio
+- Inscryption
+- Concord
+- Persona 4 
+- Persona 3
+
+### LasagnaFelidae
+- Restitched
+- LittleBigPlanet
+- Inscryption
+
+### Kiro
 Every other art done by me.
 
 ## Special Thanks
