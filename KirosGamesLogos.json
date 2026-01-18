@@ -6,7 +6,7 @@
     "description": "Provides a variation of Main Screen logos based on multiple video games",
     "prefix": "kgl",
     "main_file": "KirosGamesLogos.lua",
-    "priority": -10,
+    "priority": -5,
     "badge_colour": "750905",
     "badge_text_colour": "e6dfe3",
     "version": "0.1.1",

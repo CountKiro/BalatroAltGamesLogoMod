@@ -1104,6 +1104,7 @@ KGL.selected_logo = {name = "AAAA", credits = "AAAA", primaryColour = "AAAA", se
 
 
 
+
 local selectedMenu
 if KGL.config.enable_fixed_logo == false then
     selectedMenu = selectedMenuRandom
