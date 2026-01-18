@@ -1096,7 +1096,7 @@ KGL.config_tab = function()
     }}
 end
 
-local selectedMenuRandom = math.random(1,45)
+local selectedMenuRandom = math.random(1,70)
 
 local selectedMenuFixed = KGL.config.selected_logo or 1
 
